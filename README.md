@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Matti(as), A university student in England. My main area of interest are offensive security, however I do enjoy researching networking (even if the degree says I have to)
+I'm Matti(as), A university student in England. My main area of interest is offensive security, however I do enjoy researching networking (even if the degree says I have to)
 
 ### My languages
 
