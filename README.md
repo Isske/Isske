@@ -8,8 +8,6 @@ I'm Matti(as), A university student in England. My main area of interest are off
  - C# (Intermediate Proficiency)
  - Python / PyWebio (Basic Proficiency)
 
-![image title](https://rushter.com/counter.svg)
-
 <!--
 **Isske/Isske** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
